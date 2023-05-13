@@ -1,9 +1,9 @@
 {
     "id": "710453EC",
-    "path": "~/Mon_doc_quarto/Mon_doc_quarto.qmd",
-    "project_path": "Mon_doc_quarto.qmd",
+    "path": "C:/Users/HP/Documents/Mon_doc_quarto/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2493236022",
     "contents": "",
     "dirty": false,
     "created": 1683986751107.0,
@@ -21,11 +21,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1683988951,
+    "lastKnownWriteTime": 1683990130,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1683988951254,
+    "last_content_update": 1683990131022,
     "read_only": false,
     "read_only_alternatives": []
 }
