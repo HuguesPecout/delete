@@ -1,6 +1,5 @@
 project:
   title: "Mon_doc_quarto"
-  output-dir: docs
 
 editor: visual
 
