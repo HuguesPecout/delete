@@ -2,15 +2,18 @@
 title: "Mon document en intégration continue"
 authors: UMR8504 Géographie-Cités
 date: "23/05/2023"
+eval: false
+code-fold: true
+code-summary: Voir le code ?
 ---
 
 ## Quarto + Git
 
+Comment calculer un moyenne avec R ?
 
+```{r}
 
-```{r warning = FALSE, message = FALSE , eval = FALSE}
-#| code-summary: "Voir le code ?"
-
-1 + 1
+notes <- c(12,11,18,7)
+mean(notes)
 
 ```
