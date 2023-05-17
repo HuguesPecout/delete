@@ -1,8 +1,10 @@
 {
-  "hash": "41794bb4d86f1c1e5c4f9df4258acaa2",
+  "hash": "655950a4f4d526fa8b95bd2b564cf47a",
   "result": {
-    "markdown": "---\ntitle: \"Mon_doc_quarto\"\n---\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Mon document en intégration continue\"\nauthors: UMR8504 Géographie-Cités\ndate: \"23/05/2023\"\n---\n\n\n## Quarto + Git\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code  code-summary=\"Voir le code ?\"}\n1 + 1\n```\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

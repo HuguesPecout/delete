@@ -1,11 +1,16 @@
 ---
-title: "Mon_doc_quarto"
+title: "Mon document en intégration continue"
+authors: UMR8504 Géographie-Cités
+date: "23/05/2023"
 ---
 
-## Quarto
+## Quarto + Git
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-```{r}
+
+```{r warning = FALSE, message = FALSE , eval = FALSE}
+#| code-summary: "Voir le code ?"
+
 1 + 1
+
 ```
