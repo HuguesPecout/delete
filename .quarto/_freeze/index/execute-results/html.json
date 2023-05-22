@@ -1,7 +1,7 @@
 {
-  "hash": "825338b3a8cfa363c5fba27a3cc2c746",
+  "hash": "19c1e687d7597bdda98fae1c8a5faa5b",
   "result": {
-    "markdown": "---\ntitle: \"Mon document en intégration continue\"\nauthors: UMR8504 Géographie-Cités\ndate: \"23/05/2023\"\neval: false\ncode-fold: true\ncode-summary: Voir le code ?\n---\n\n\n## Quarto + Git\n\nComment calculer un moyenne avec R ?\n\n\n::: {.cell}\n\n```{.r .cell-code}\nnotes <- c(12,11,18,7)\nmean(notes)\n```\n:::\n",
+    "markdown": "---\ntitle: \"Mon document en intégration continue\"\nauthors: UMR8504 Géographie-Cités\ndate: \"23/05/2023\"\neval: false\ncode-fold: true\ncode-summary: Voir le code ?\n---\n\n\n## Quarto + Git\n\nComment calculer un moyenne avec R ?\n\n\n::: {.cell}\n\n```{.r .cell-code}\nnotes <- c(12,11,18,7,16)\nmean(notes)\n```\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -13,7 +13,7 @@ Comment calculer un moyenne avec R ?
 
 ```{r}
 
-notes <- c(12,11,18,7)
+notes <- c(12,11,18,7,16)
 mean(notes)
 
 ```
